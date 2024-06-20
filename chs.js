@@ -149,7 +149,7 @@ var cnItems = {
     "This Artifact gets stronger based on Player Level times its count squared": "该神器的强度取决于玩家等级乘以其数量的平方",
     "Epic": "史诗",
     "Magic Wand of Thousand Colors": "千色魔杖",
-    "": "",
+    "Legendary": "传说",
     "": "",
     "": "",
     "": "",
